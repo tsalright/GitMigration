@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtraContent", "ExtraContent", "{16D9BFB7-15D2-4BED-A77B-CCF4A2389CB1}"
+ProjectSection(SolutionItems) = preProject
+	README.md = README.md
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitMigration", "GitMigration\GitMigration.csproj", "{BD3F8BE5-B951-4A1B-AB34-38FF35693831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3F8BE5-B951-4A1B-AB34-38FF35693831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3F8BE5-B951-4A1B-AB34-38FF35693831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3F8BE5-B951-4A1B-AB34-38FF35693831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3F8BE5-B951-4A1B-AB34-38FF35693831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
